@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.CombBox_ADD_and_Remove", "25.CombBox_ADD_and_Remove.csproj", "{D53E5112-9E72-4EFE-90DA-8D2517FFC05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53E5112-9E72-4EFE-90DA-8D2517FFC05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53E5112-9E72-4EFE-90DA-8D2517FFC05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53E5112-9E72-4EFE-90DA-8D2517FFC05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53E5112-9E72-4EFE-90DA-8D2517FFC05F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50FBB4D5-70E7-4A51-B606-A039FBC8EBCA}
+	EndGlobalSection
+EndGlobal
